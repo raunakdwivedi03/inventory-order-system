@@ -134,3 +134,6 @@ To build and push your backend image to your Docker Hub registry:
         *   **Output Directory:** `dist`
     *   Define the Environment Variable:
         *   `VITE_API_URL`: Set to your deployed Backend service URL (e.g., `https://flowstock-backend.onrender.com`).
+
+---
+*Developed with love by FlowStock team.*
