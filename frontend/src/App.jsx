@@ -114,3 +114,4 @@ function App() {
 }
 
 export default App;
+// Trigger Vercel rebuild with correct directory settings
